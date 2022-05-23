@@ -1,0 +1,11 @@
+-
+  name: 获得统一接口鉴权码
+  request:
+    method: get
+    url: https://api.weixin.qq.com/cgi-bin/token
+    headers: null
+    params:
+      grant_type: client_credential
+      appid: wxffc1ea4cbf0d15a0
+      secret: 0334dddbd0bc646d4c38acb109445483
+  validate: null

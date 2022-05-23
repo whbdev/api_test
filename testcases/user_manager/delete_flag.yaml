@@ -1,0 +1,10 @@
+-
+  name: 编辑标签接口
+  request:
+    method: post
+    url: https://api.weixin.qq.com/cgi-bin/tags/delete
+    headers: null
+    params:
+      access_token: access_token
+    json: {"tag": {"id": 134}}
+  validate: null

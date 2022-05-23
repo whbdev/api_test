@@ -1,0 +1,5 @@
+-
+  name: 商品访问首页
+  request:
+    method: get
+    url: http://47.107.116.139/phpwind/
